@@ -1,0 +1,9 @@
+com\libreria\martha\repository\ProductRepository.class
+com\libreria\martha\service\Implementation\ProductServiceImpl.class
+com\libreria\martha\MarthaApplication.class
+com\libreria\martha\config\WebConfig.class
+com\libreria\martha\service\ImageService.class
+com\libreria\martha\controller\ProductController.class
+com\libreria\martha\service\Implementation\ImageServiceImpl.class
+com\libreria\martha\model\Product.class
+com\libreria\martha\service\ProductService.class
